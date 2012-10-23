@@ -10,6 +10,7 @@ public class MainClass {
 		System.out.println("Making a change");
 		System.out.println("Change two");
 		System.out.println("Adding another change");
+		System.out.println("TEst");
 	}
 
 }
