@@ -9,6 +9,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		System.out.println("Making a change");
 		System.out.println("Change two");
+		System.out.println("Adding another change");
 	}
 
 }
